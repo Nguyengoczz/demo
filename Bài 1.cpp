@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+// hello 
 int main(){
 	int a,b,s=0;
 	printf("Nhap vao so nguyen a: ");
